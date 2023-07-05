@@ -21,9 +21,9 @@
     "noFallthroughCasesInSwitch": true,
 
     /* Absoulte Import */
-    "baseUrl": ".",
+    "baseUrl": "./src",
     "paths": {
-      "@/*": ["./src/*"]
+      "@/*": ["./*"]
     }
   },
   "include": ["src"],
