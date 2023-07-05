@@ -1,4 +1,5 @@
 <img width="1132" alt="image" src="https://github.com/aulianza/aulianza-vite-react-starter/assets/15605885/d08ad26f-dd83-4be3-b59b-63328f9004c2"><div align="center">
+
   <h1>aulianza-vite-react-starter</h1>
     <p>⚡️ Vite + React + TypeScript + Tailwind CSS starter template</p>
   <br />
