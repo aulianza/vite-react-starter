@@ -1,3 +1,4 @@
+<div align="center">
   <h1>aulianza-vite-react-starter</h1>
     <p>⚡️ Vite + React + TypeScript + Tailwind CSS starter template</p>
   <br />
