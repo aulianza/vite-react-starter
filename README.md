@@ -1,10 +1,10 @@
 <div align="center">
-  <h1>aulianza-vite-react-starter</h1>
+  <h1>vite-react-starter</h1>
     <p>⚡️ Vite + React + TypeScript + Tailwind CSS starter template</p>
   <br />
 
   <div>
-   <img width="1132" alt="image" src="https://github.com/aulianza/aulianza-vite-react-starter/assets/15605885/6af57133-e5e0-48c4-8e1d-d3852b137907">
+   <img width="1132" alt="image" src="https://github.com/aulianza/vite-react-starter/assets/15605885/a2a55db7-bb49-467f-bdc2-aa697fef3e90">
 </div>
 
 </div>
@@ -49,8 +49,8 @@ This repository is packed with:
 
 3. Deploy to Vercel or Netlify, etc
 
-   [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/aulianza/aulianza-vite-react-starter)
-   [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/aulianza/aulianza-vite-react-starter)
+   [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/aulianza/vite-react-starter)
+   [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/aulianza/vite-react-starter)
 
 ### 2. Install dependencies
 
@@ -82,4 +82,4 @@ This starter is using [conventional commits](https://www.conventionalcommits.org
 
 ## License
 
-Licensed under the [MIT license](https://github.com/aulianza/aulianza-vite-react-starter/blob/master/LICENSE).
+Licensed under the [MIT license](https://github.com/aulianza/vite-react-starter/blob/master/LICENSE).
