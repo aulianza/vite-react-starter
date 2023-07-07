@@ -44,7 +44,7 @@ This repository is packed with:
 2. Using `degit`
 
    ```bash
-   npx degit aulianza/aulianza-vite-react-starter YOUR_APP_NAME
+   npx degit aulianza/vite-react-starter YOUR_APP_NAME
    ```
 
 3. Deploy to Vercel or Netlify, etc
